@@ -1,0 +1,20 @@
+{
+   "Product":[
+      {
+         "name":"iphone 10",
+         "Price":"$500",
+         "Color":"Red"
+      },
+      {
+         "restaurant":"LaFaye",
+         "Menu":"Adobo",
+         "Price":"$20"
+      },
+      {
+         "Place" : "Taiwan",
+         "City" : "Taipei",
+          "AreaCode": "+886"
+
+      }
+   ]
+}
